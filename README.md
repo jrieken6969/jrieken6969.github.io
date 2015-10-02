@@ -1,2 +1,2 @@
-# jrieken6969.github.io
+# http://jrieken6969.github.io
 Pierce College Web Site
